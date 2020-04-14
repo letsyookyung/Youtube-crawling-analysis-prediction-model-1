@@ -1,4 +1,4 @@
-# Based on YouTube-Crawling data -> creates hits prediction model 
+# YouTube-Crawling data + hits prediction model 
 - YouTube 영상 정보 수집 (채널명/구독자수/조회수/업로드 날짜/좋아요/싫어요)
 - Selenium / BeutifulSoup 활용
 - YouTuber 7인의 영상 정보 수집 -> 총 4568개의 데이터셋 (youtuber_crawling_data.csv) 생성 
