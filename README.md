@@ -3,7 +3,7 @@
 ### Project objective : 
 - YouTube 영상 정보 (채널명/구독자수/영상 제목/조회수/업로드 날짜/좋아요/싫어요), 특히 자연어처리를 거친 영상 제목을 수치화한 후의 변수를 포함하여 '조회수 예측 모델' 형성해보기 
 
-### Dataset & steps to analysis
+### Dataset & Steps to analysis
 - Selenium / BeutifulSoup 활용, YouTube 영상 정보 수집 crawling (채널명/구독자수/조회수/업로드 날짜/좋아요/싫어요)
 - YouTuber 7인의 영상 정보 수집 -> 총 4568개의 데이터셋 (youtuber_crawling_data.csv) 생성 
 - 영상 제목 NLP기법 및 Word Cloud 형성 하여, (언급 빈도/시기별/날짜별) 핵심 키워드 처리
