@@ -1,6 +1,6 @@
 # YouTube-Crawling data + hits prediction model 
 
-### Project objective : 
+### Objectives 
 - YouTube 영상 정보 (채널명/구독자수/영상 제목/조회수/업로드 날짜/좋아요/싫어요), 특히 자연어처리를 거친 영상 제목을 수치화한 후의 변수를 포함하여 '조회수 예측 모델' 형성해보기 
 
 ### Dataset & Steps to analysis
